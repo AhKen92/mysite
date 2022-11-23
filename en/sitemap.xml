@@ -2,212 +2,212 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/awards/</loc>
+    <loc>https://ahken92.github.io/mysite/awards/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/certifications/</loc>
+    <loc>https://ahken92.github.io/mysite/certifications/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://ahken92.github.io/mysite/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/"
+                href="https://ahken92.github.io/mysite/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://ahken92.github.io/mysite/"
                 />
   </url><url>
-    <loc>https://example.com/tags/demo/</loc>
+    <loc>https://ahken92.github.io/mysite/tags/demo/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://ahken92.github.io/mysite/post/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/post/"
+                href="https://ahken92.github.io/mysite/ar/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/"
+                href="https://ahken92.github.io/mysite/post/"
                 />
   </url><url>
-    <loc>https://example.com/tags/shortcode/</loc>
+    <loc>https://ahken92.github.io/mysite/tags/shortcode/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://ahken92.github.io/mysite/tags/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/tags/"
+                href="https://ahken92.github.io/mysite/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://ahken92.github.io/mysite/tags/"
                 />
   </url><url>
-    <loc>https://example.com/post/notice-shortcode/</loc>
+    <loc>https://ahken92.github.io/mysite/post/notice-shortcode/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/series/</loc>
+    <loc>https://ahken92.github.io/mysite/series/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/series/"
+                href="https://ahken92.github.io/mysite/ar/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/"
+                href="https://ahken92.github.io/mysite/series/"
                 />
   </url><url>
-    <loc>https://example.com/post/series-part-2/</loc>
+    <loc>https://ahken92.github.io/mysite/post/series-part-2/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/series/series-setup/</loc>
+    <loc>https://ahken92.github.io/mysite/series/series-setup/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/series-part-1/</loc>
+    <loc>https://ahken92.github.io/mysite/post/series-part-1/</loc>
     <lastmod>2021-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/redirect/</loc>
+    <loc>https://ahken92.github.io/mysite/tags/redirect/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/redirect/</loc>
+    <loc>https://ahken92.github.io/mysite/post/redirect/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/redirecturl/</loc>
+    <loc>https://ahken92.github.io/mysite/tags/redirecturl/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/figure-shortcode/</loc>
+    <loc>https://ahken92.github.io/mysite/post/figure-shortcode/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://ahken92.github.io/mysite/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/archives/"
+                href="https://ahken92.github.io/mysite/ar/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/archives/"
+                href="https://ahken92.github.io/mysite/archives/"
                 />
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://ahken92.github.io/mysite/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/categories/"
+                href="https://ahken92.github.io/mysite/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://ahken92.github.io/mysite/categories/"
                 />
   </url><url>
-    <loc>https://example.com/tags/css/</loc>
+    <loc>https://ahken92.github.io/mysite/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/html/</loc>
+    <loc>https://ahken92.github.io/mysite/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/markdown/</loc>
+    <loc>https://ahken92.github.io/mysite/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/markdown-syntax/</loc>
+    <loc>https://ahken92.github.io/mysite/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/syntax/</loc>
+    <loc>https://ahken92.github.io/mysite/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/themes/</loc>
+    <loc>https://ahken92.github.io/mysite/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/series/themes-guide/</loc>
+    <loc>https://ahken92.github.io/mysite/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/privacy/</loc>
+    <loc>https://ahken92.github.io/mysite/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/rich-content/</loc>
+    <loc>https://ahken92.github.io/mysite/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/shortcodes/</loc>
+    <loc>https://ahken92.github.io/mysite/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/placeholder-text/</loc>
+    <loc>https://ahken92.github.io/mysite/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/text/</loc>
+    <loc>https://ahken92.github.io/mysite/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://ahken92.github.io/mysite/contact/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/contact/"
+                href="https://ahken92.github.io/mysite/ar/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/contact/"
+                href="https://ahken92.github.io/mysite/contact/"
                 />
   </url><url>
-    <loc>https://example.com/post/math-typesetting/</loc>
+    <loc>https://ahken92.github.io/mysite/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/emoji/</loc>
+    <loc>https://ahken92.github.io/mysite/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/emoji-support/</loc>
+    <loc>https://ahken92.github.io/mysite/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/image-test/</loc>
+    <loc>https://ahken92.github.io/mysite/post/image-test/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/thumbnail/</loc>
+    <loc>https://ahken92.github.io/mysite/tags/thumbnail/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://ahken92.github.io/mysite/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/about/"
+                href="https://ahken92.github.io/mysite/ar/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about/"
+                href="https://ahken92.github.io/mysite/about/"
                 />
   </url><url>
-    <loc>https://example.com/imprint/</loc>
+    <loc>https://ahken92.github.io/mysite/imprint/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.com/tags/index/</loc>
+    <loc>https://ahken92.github.io/mysite/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/tags/index/"
+                href="https://ahken92.github.io/mysite/ar/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/index/"
+                href="https://ahken92.github.io/mysite/tags/index/"
                 />
   </url><url>
-    <loc>https://example.com/portfolio/</loc>
+    <loc>https://ahken92.github.io/mysite/portfolio/</loc>
   </url>
 </urlset>
